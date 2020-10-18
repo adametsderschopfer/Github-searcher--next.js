@@ -1,2 +1,1 @@
-# Github Searcher 
-## Next.js & Redux
+# Github Searcher -- Next.js & Redux
