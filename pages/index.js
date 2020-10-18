@@ -1,3 +1,5 @@
-export default function Home() {
-  return <div></div>;
+function Home() {
+  return <div>Done</div>;
 }
+
+export default Home;
