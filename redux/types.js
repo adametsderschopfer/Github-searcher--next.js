@@ -1,1 +1,8 @@
-export const __INIT__ = "__INIT__";
+export const FILL_SEARCHED_USERS = "FILL_SEARCHED_USERS";
+export const CLEAR_SEARCHE_USERS = "CLEAR_SEARCHE_USERS";
+
+export const FILL_CURRENT_USER = "OPEN_CURRENT_USER";
+export const CLEAR_CURRENT_USER = "CLEAR_CURRENT_USER";
+
+export const LOADER_START = "LOADER_START";
+export const LOADER_STOP = "LOADER_STOP";
